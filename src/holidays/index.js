@@ -6,6 +6,7 @@ import * as holidays2022 from './2022'
 import * as holidays2023 from './2023'
 import * as holidays2024 from './2024'
 import * as holidays2025 from './2025'
+import * as holidays2026 from './2026'
 
 export const HOLIDAYS = [
   ...holidays2018.HOLIDAYS_2018,
@@ -16,6 +17,7 @@ export const HOLIDAYS = [
   ...holidays2023.HOLIDAYS_2023,
   ...holidays2024.HOLIDAYS_2024,
   ...holidays2025.HOLIDAYS_2025,
+  ...holidays2025.HOLIDAYS_2026
 ]
 
 export const WORKDAYS = [
@@ -27,5 +29,6 @@ export const WORKDAYS = [
   ...holidays2023.WORKDAYS_2023,
   ...holidays2024.WORKDAYS_2024,
   ...holidays2025.WORKDAYS_2025,
+  ...holidays2025.WORKDAYS_2026
 ]
 
