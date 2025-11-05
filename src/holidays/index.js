@@ -17,7 +17,7 @@ export const HOLIDAYS = [
   ...holidays2023.HOLIDAYS_2023,
   ...holidays2024.HOLIDAYS_2024,
   ...holidays2025.HOLIDAYS_2025,
-  ...holidays2025.HOLIDAYS_2026
+  ...holidays2026.HOLIDAYS_2026
 ]
 
 export const WORKDAYS = [
@@ -29,6 +29,6 @@ export const WORKDAYS = [
   ...holidays2023.WORKDAYS_2023,
   ...holidays2024.WORKDAYS_2024,
   ...holidays2025.WORKDAYS_2025,
-  ...holidays2025.WORKDAYS_2026
+  ...holidays2026.WORKDAYS_2026
 ]
 
