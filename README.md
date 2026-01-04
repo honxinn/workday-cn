@@ -112,7 +112,7 @@ const type = getDateType(new Date('2024-05-01')); // 'holiday'
 ## 注意事项
 
 - 日期参数支持 Date 对象或 'YYYY-MM-DD' 格式的字符串
-- 节假日数据基于国务院发布的法定节假日安排[《全国年节及纪念日放假办法》](https://www.gov.cn/zhengce/content/202411/content_6986380.htm)
+- 节假日数据基于国务院发布的法定节假日安排[《全国年节及纪念日放假办法》](https://www.gov.cn/zhengce/content/202511/content_7047090.htm)
 - 每年的节假日数据会定期更新
 
 ## 许可
